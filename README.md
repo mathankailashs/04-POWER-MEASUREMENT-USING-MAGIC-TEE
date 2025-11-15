@@ -1,4 +1,6 @@
 # 04-POWER-MEASUREMENT-USING-MAGIC-TEE
+## Name: Mathan Kailash S 
+## Reg No: 212223060156
 
 **A.Aim:**
 
@@ -61,26 +63,30 @@ Coupling (dB) = 10 log10 PC1/ PH = -10 log10 PC2/ PH.
 The difference in the attenuator settings gives the ration of the
 power coupled to thecollinear to that in the main arm, in dB. This value is around 3dB.
 
-**F.	Observation: ( Include your own Table relevant to the Experiment)**
+**F.	Observation:**
 
-**Isolation measurement** (Tabulation)
+![WhatsApp Image 2025-11-15 at 08 57 42_1f31ca6c](https://github.com/user-attachments/assets/dc0f0b47-dec3-4232-a889-ade9f48dea64)
+![WhatsApp Image 2025-11-15 at 08 59 57_a91b947b](https://github.com/user-attachments/assets/95f51c82-edef-434f-a2b5-2e17fe48ca0b)
 
-**Measurement of power division** (Tabulation)
+**G.	Analysis of Results:**
 
+Isolation = A₁ − A₂ = 20.0 − 1.0 = 19.0 dB. Interpretation: only ~1/79 of the power fed into the E-arm appears at the H-arm (good isolation). Power division (coupling to collinear arm) = A₁ − A₂ = 20.0 − 17.0 = 3.0 dB. Interpretation: input power splits equally between the two collinear arms (each receives ≈ half the power).
 
-**G.	Analysis of Results: (Write your own)**
-
-(Include sample calculations/Display/plot/typical graph)
-
-**H.	Conclusions: (Write your Own)**
+**H.	Conclusions:**
 
 Isolation between E and H arms (dB) = (A1 – A2) dB
 Coupling between collinear arms and E/H arms (dB) = (A1 – A2) dB
 
 **Precautions:**
 
-•	Check the connections before switching on the kit.
-•	Connections should be done properly.
-•	Observation should be taken properly.
+* Check the connections before switching on the kit.
+* Connections should be done properly.
+* Observation should be taken properly.
 
 **Result:**
+
+Isolation between E and H arms ≈ 19 dB,
+
+power division in the collinear arms ≈ 3 dB (equal split).
+
+Thus, the experiment executed successfully.
